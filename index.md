@@ -1,6 +1,5 @@
 ---
 title: Squirtle
-layout: home
 title1:  Wartortle
 title2:  Blastoise
 ---
