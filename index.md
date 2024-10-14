@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ejercicio 3
 layout: home
 ---
 
