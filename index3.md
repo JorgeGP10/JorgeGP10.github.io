@@ -1,7 +1,8 @@
 ---
+parent: Blastoise Shiny
 aux_links:
-  Marca:
-    - https://www.marca.com
+  Foto:
+    - [https://www.marca.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9igQ-asq2ikhHXv9_sWK04qexy1T5mO059g&s)
 ---
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
