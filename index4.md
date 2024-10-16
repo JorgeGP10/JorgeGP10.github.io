@@ -1,6 +1,7 @@
 ---
 
 title: Blastoise Shiny
+layout: home
 parent: Blastoise
 aux_links:
   Foto:
