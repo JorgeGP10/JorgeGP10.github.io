@@ -4,7 +4,7 @@ theme: just-the-docs
 color_scheme: dark
 
 url: https://JorgeGP10.github.io
-favicon_ico: Poké_Ball_icon.svg.ico
+favicon: Poké_Ball_icon.svg.ico
 nav_external_links:
   - title: 1a Generación
     url: https://www.wikidex.net/wiki/Lista_de_Pok%C3%A9mon_de_la_primera_generaci%C3%B3n
